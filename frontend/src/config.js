@@ -1,5 +1,6 @@
 const config = {
   // Backend config
+  SENTRY_DSN: "https://1426d697b98447659c1f16e412197f1a@o1317971.ingest.sentry.io/6571503",
   STRIPE_KEY: "pk_test_51LIyjMDlWsNPAHMXUeGSjjQlVsPP5scXBEAsQpjOP81EJRZoSZ5xrp1JL3jhq2QHw5OojawsVG2dMQuqYrlzO4aJ00v9LA0ptl",
   s3: {
     REGION: process.env.REACT_APP_REGION,
